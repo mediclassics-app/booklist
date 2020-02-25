@@ -1,7 +1,7 @@
 # General Jekyll Config
 highlighter: rouge
 title: '한의학 고서 목록'
-url: https://lee-han.github.io
+url: http://info.mediclassics.kr
 exclude: [ .gitignore, README.md ]
 
 # Site Settings
