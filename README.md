@@ -1,7 +1,7 @@
 # 한의학 고서 목록
 
 ## 접속 주소
-- http://info.mediclassics.kr/booklist/
+- https://info.mediclassics.kr/booklist/
 
 ## 검색
 - 대표서명 묶음으로 기본 정렬이 되어 있습니다.
