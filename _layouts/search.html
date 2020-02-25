@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+	{% include head.html %}
+
+	{% include head_search.html %}
+
+	</head>
+
+	<body>
+
+		{% include navi.html %}
+
+		<div class="container py-3">
+			{{ content }}
+		</div>
+
+		{% include footer.html %}
+
+		{% include js_all.html %}
+
+		{% include js_search.html %}
+
+	</body>
+</html>

@@ -1,0 +1,8 @@
+# General Jekyll Config
+highlighter: rouge
+title: '한의학 고서 목록'
+url: https://lee-han.github.io
+exclude: [ .gitignore, README.md ]
+
+# Site Settings
+baseurl: "/booklist2"
