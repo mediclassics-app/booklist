@@ -5,4 +5,4 @@ url: http://info.mediclassics.kr
 exclude: [ .gitignore, README.md ]
 
 # Site Settings
-baseurl: "/booklist2"
+baseurl: "/booklist"
