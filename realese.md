@@ -19,7 +19,7 @@ title: "업데이트 이력"
 - 변경 없음
 
 ##### 업데이트 내용
-- 팀 저장소로 이관 (https://github.com/mediclassics-app/booklist)
+- 팀 저장소로 이관 및 URL 변경 (http://info.mediclassics.kr/booklist)
 - 반응형 메뉴 아이콘 적용
 
 * * *
